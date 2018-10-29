@@ -1,0 +1,21 @@
+{
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true
+  },
+  "ecmaFeatures": {
+      "jsx": true,
+      "experimentalObjectRestSpread": true
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "no-restricted-modules": "off"
+  }
+}
