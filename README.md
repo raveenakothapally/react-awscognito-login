@@ -1,5 +1,5 @@
 #### Context
-Has a ton of server + client implementation for Wejo test using following technologies:
+Has a ton of server + client implementation using following technologies:
 1. Node JS
 2. Express JS
 3. Socket IO
